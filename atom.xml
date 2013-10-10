@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bustacell.github.io/atom.xml" rel="self"/>
   <link href="http://bustacell.github.io/"/>
-  <updated>2013-10-10T08:58:33-07:00</updated>
+  <updated>2013-10-10T09:14:08-07:00</updated>
   <id>http://bustacell.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://bustacell.github.io/blog/2013/10/10/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-10-10T09:10:00-07:00</updated>
+    <id>http://bustacell.github.io/blog/2013/10/10/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
